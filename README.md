@@ -1,5 +1,5 @@
 - 👋 Oi, meu nome é Marcos
-- Atualmente estou no segundo ano do ensino médio!
+- Atualmente estou cursando osegundo ano do ensino médio!
 - Sou apaixonado por códigos  ❤️
 
 <!---
